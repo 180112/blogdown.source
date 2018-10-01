@@ -2,11 +2,11 @@
 date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
-tags = ["academic", "hugo"]
-title = "Mon premier blog"
+tags = ["academic", "umons"]
+title = "Je crée ce site web"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+Après en avoir pris une base sur Github, il m'a juste fallu changer certains paramètres afin qu'il corresponde à mes attentes. 
 """
 
 [header]
