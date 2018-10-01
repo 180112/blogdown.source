@@ -25,7 +25,7 @@ weight = 3
 
 +++
 
-FIRSTNAME FAMILYNAME
+Antoine Flandroit
 <br>
 <small>A short description of myself here</small>
 <br><br>

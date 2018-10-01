@@ -1,17 +1,17 @@
 # Source pour mon site web professionnel
 
-Ceci est la source [blogdown](https://bookdown.org/yihui/blogdown/) pour construire https://USERNAME.github.io avec [hugo](https://gohugo.io) dans le dépôt Github `USERNAME.github.io`.
+Ceci est la source [blogdown](https://bookdown.org/yihui/blogdown/) pour construire https://USERNAME.github.io avec [hugo](https://gohugo.io) dans le dépôt Github `180112.github.io`.
 
 
 ## Procédure
 
-(remplacer `USERNAME` par votre propre login Github)
+(remplacer `180112` par votre propre login Github)
 
 - Faites un `Fork` du dépôt
 
 - Clôner le dépôt `blogdown.source`dans le dossier **projects**
 
-- Créer sur Github (https://github.com) un nouveau dépôt qui **doit** s'appeler `USERNAME.github.io`
+- Créer sur Github (https://github.com) un nouveau dépôt qui **doit** s'appeler `180112.github.io`
 
 - Le clôner également dans le dossier **projects**
 
