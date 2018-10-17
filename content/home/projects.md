@@ -35,10 +35,15 @@ filter_default = 0
 [[filter]]
   name = "Biology"
   tag = ".biology"
+  
+  [[filter]]
+  name = "Evolution"
+  tag = ".evolution"
 
 [[filter]]
   name = "Other"
   tag = ".miscellaneous"
+  
 
 +++
 

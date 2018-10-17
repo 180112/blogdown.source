@@ -2,17 +2,17 @@
 date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
-tags = ["academic", "umons"]
-title = "Je crée ce site web"
+tags = ["academic", "umons", "biology"]
+title = "Creating this website"
 math = true
 summary = """
-Après en avoir pris une base sur Github, il m'a juste fallu changer certains paramètres afin qu'il corresponde à mes attentes. 
+After taking the main code from Github, I changed it so that it looked as I wanted to.
 """
 
 [header]
 image = "headers/secondary-header.jpg"
 caption = "Image credit: **Derek Thompson** on Unsplash"
-preview = false
+preview = true
 
 +++
 
