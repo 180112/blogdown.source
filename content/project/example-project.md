@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2018-09-24"
+date = "2018-11-21"
 
-# Project title.
-title = "My project"
+
+title = "Planning an Erasmus"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "In ordre to practice Japanese, I want to do a course in Japan. My first step is so to find out which university/lab I want and contact them."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "project.jpg"
+image_preview = "Temple.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["science", "biology"]
+tags = ["science", "biology", "japan", "erasmus", "course"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/project-header.jpg"
-caption = "Image credit: **Trevor Cole** on Unsplash"
+image = "headers/Minitemple.jpg"
+caption = "Image credit: **Antoine Flandroit**"
 +++
 
-Here I describe my project using Markdown formatting...
+The first thing to do is to choose the place where I want to do my course. Since I am a biology student, the best is to go to a natural place. The most naturel places in Japan are the nothern districts so I am still hesitating between going to Hokkaido or Tohoku.
