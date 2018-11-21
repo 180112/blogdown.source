@@ -6,7 +6,7 @@ tags = ["academic", "umons", "biology"]
 title = "Creating this website"
 math = true
 summary = """
-After taking the main code from Github, I changed it so that it looked as I wanted to.
+After taking the main code from Github, I changed it so that it looked as I wanted to. 
 """
 
 [header]
@@ -16,8 +16,4 @@ preview = true
 
 +++
 
-Le contenu ici
-
-## Un titre
-
-Du texte **avec une partie en gras**...
+It was pretty difficult at the beginning because my knowledge in R Studio was nothing more than zero, but now that I'm getting used to it, I feel like I can do whatever I want.
