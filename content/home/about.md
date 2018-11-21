@@ -38,4 +38,4 @@ weight = 5
 # About Me
 
 I am student at the University of Mons in Belgium... I chose this cursus because I really love animals and want to learn more about their behaviours. 
-Appart from that, my hobbies are drawing andc playing theatre. I've also been learning Japanese in autodidact, thus I was able to live in Japan for one month on my own.
+Appart from that, my hobbies are drawing and playing theatre. I've also been learning Japanese in autodidact, thus I was able to live in Japan for one month on my own.

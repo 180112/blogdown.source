@@ -10,8 +10,8 @@ After taking the main code from Github, I changed it so that it looked as I want
 """
 
 [header]
-image = "headers/secondary-header.jpg"
-caption = "Image credit: **Derek Thompson** on Unsplash"
+image = "headers/Makethefuture.jpg"
+caption = "Image credit: **Antoine Flandroit**"
 preview = true
 
 +++
