@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/Minitemple.jpg"
+image = "Minitemple.jpg"
 caption = "Image credit: **Antoine Flandroit**"
 +++
 
