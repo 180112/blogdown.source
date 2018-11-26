@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Asiatic culture"
-    "Evolution"
+    "Asiatic culture",
+    "Evolution",
     "Ethology"
     
   ]
