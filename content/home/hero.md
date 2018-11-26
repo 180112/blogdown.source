@@ -27,7 +27,7 @@ weight = 3
 
 Antoine Flandroit
 <br>
-<small>A short description of myself here</small>
+<small>I am a 19-year-old biology student currently in 2nd year in UMONS.</small>
 <br><br>
 
 <script type="text/javascript">
